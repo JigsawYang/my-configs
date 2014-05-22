@@ -1,0 +1,18 @@
+//============================================================================
+// Name        : testcpp.cpp
+// Author      : 
+// Version     :
+// Copyright   : 
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <stdio.h>
+using namespace std;
+
+int main(int argc, char* argv[])
+{
+	printf("%s\n", argv[0])
+	cout << ":hello!" << endl; // prints
+	return 0;
+}
