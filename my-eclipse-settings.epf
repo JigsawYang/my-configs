@@ -1,4 +1,4 @@
-#Thu May 22 11:30:51 CST 2014
+#Thu May 22 13:05:41 CST 2014
 /instance/org.eclipse.cdt.ui/semanticHighlighting.method.color=0,45,130
 /instance/org.eclipse.cdt.ui/pp_directive=33,121,0
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ScanfFormatStringSecurityProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
@@ -8,6 +8,7 @@
 /instance/org.eclipse.ui.ide/platformState=1400661226101
 @org.eclipse.ui.ide=3.9.2.v20131004-0923
 /instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
+@org.eclipse.jdt.core=3.9.2.v20140114-1555
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NamingConventionFunctionChecker.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},pattern\=>"^[a-z]",macro\=>true,exceptions\=>()}
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StatementHasNoEffectProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},macro\=>true,exceptions\=>()}
 /instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.italic=false
@@ -31,6 +32,7 @@
 /instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.cdt.ui.presentation\tTorg.eclipse.ui.presentation.default
 /instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions/>\n
 @org.eclipse.team.ui=3.7.1.v20130729-1104
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1400729467615">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1400729467615" name\="java-7-openjdk-amd64" path\="/usr/lib/jvm/java-7-openjdk-amd64"/>\n</vmType>\n</vmSettings>\n
 @org.python.pydev=3.5.0.201405201709
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentInConditionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.bold=false
@@ -44,6 +46,7 @@
 \!/=
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidTemplateArgumentsProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/org.python.pydev/FUNC_NAME_COLOR=0,90,178
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.jdt.ui/tabWidthPropagated=true
 @org.eclipse.debug.ui=3.9.0.v20130516-1713
@@ -88,6 +91,7 @@
 /instance/org.python.pydev/INTERPRETER_PATH_NEW=<xml>\n<name>python</name>\n<version>2.7</version>\n<executable>/usr/bin/python</executable>\n<lib>/usr/lib/python2.7</lib>\n<lib>/usr/lib/python2.7/plat-linux2</lib>\n<lib>/usr/lib/python2.7/lib-tk</lib>\n<lib>/usr/lib/python2.7/lib-dynload</lib>\n<lib>/usr/local/lib/python2.7/dist-packages</lib>\n<lib>/usr/lib/python2.7/dist-packages</lib>\n<lib>/usr/lib/python2.7/dist-packages/PIL</lib>\n<lib>/usr/lib/python2.7/dist-packages/gst-0.10</lib>\n<lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>\n<lib>/usr/lib/pymodules/python2.7</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntuone-client</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntuone-control-panel</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntuone-couch</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntuone-installer</lib>\n<lib>/usr/lib/python2.7/dist-packages/ubuntuone-storage-protocol</lib>\n<forced_lib>Image</forced_lib>\n<forced_lib>OpenGL</forced_lib>\n<forced_lib>__builtin__</forced_lib>\n<forced_lib>__main__</forced_lib>\n<forced_lib>_ast</forced_lib>\n<forced_lib>_bisect</forced_lib>\n<forced_lib>_bytesio</forced_lib>\n<forced_lib>_codecs</forced_lib>\n<forced_lib>_codecs_cn</forced_lib>\n<forced_lib>_codecs_hk</forced_lib>\n<forced_lib>_codecs_iso2022</forced_lib>\n<forced_lib>_codecs_jp</forced_lib>\n<forced_lib>_codecs_kr</forced_lib>\n<forced_lib>_codecs_tw</forced_lib>\n<forced_lib>_collections</forced_lib>\n<forced_lib>_csv</forced_lib>\n<forced_lib>_fileio</forced_lib>\n<forced_lib>_functools</forced_lib>\n<forced_lib>_hashlib</forced_lib>\n<forced_lib>_heapq</forced_lib>\n<forced_lib>_hotshot</forced_lib>\n<forced_lib>_json</forced_lib>\n<forced_lib>_locale</forced_lib>\n<forced_lib>_lsprof</forced_lib>\n<forced_lib>_md5</forced_lib>\n<forced_lib>_multibytecodec</forced_lib>\n<forced_lib>_random</forced_lib>\n<forced_lib>_sha</forced_lib>\n<forced_lib>_sha256</forced_lib>\n<forced_lib>_sha512</forced_lib>\n<forced_lib>_socket</forced_lib>\n<forced_lib>_sre</forced_lib>\n<forced_lib>_ssl</forced_lib>\n<forced_lib>_struct</forced_lib>\n<forced_lib>_subprocess</forced_lib>\n<forced_lib>_symtable</forced_lib>\n<forced_lib>_warnings</forced_lib>\n<forced_lib>_weakref</forced_lib>\n<forced_lib>_winreg</forced_lib>\n<forced_lib>array</forced_lib>\n<forced_lib>audioop</forced_lib>\n<forced_lib>binascii</forced_lib>\n<forced_lib>cPickle</forced_lib>\n<forced_lib>cStringIO</forced_lib>\n<forced_lib>cmath</forced_lib>\n<forced_lib>datetime</forced_lib>\n<forced_lib>email</forced_lib>\n<forced_lib>errno</forced_lib>\n<forced_lib>exceptions</forced_lib>\n<forced_lib>fcntl</forced_lib>\n<forced_lib>future_builtins</forced_lib>\n<forced_lib>gc</forced_lib>\n<forced_lib>grp</forced_lib>\n<forced_lib>hashlib</forced_lib>\n<forced_lib>imageop</forced_lib>\n<forced_lib>imp</forced_lib>\n<forced_lib>itertools</forced_lib>\n<forced_lib>marshal</forced_lib>\n<forced_lib>math</forced_lib>\n<forced_lib>mmap</forced_lib>\n<forced_lib>msvcrt</forced_lib>\n<forced_lib>nt</forced_lib>\n<forced_lib>numpy</forced_lib>\n<forced_lib>operator</forced_lib>\n<forced_lib>os</forced_lib>\n<forced_lib>os.path</forced_lib>\n<forced_lib>parser</forced_lib>\n<forced_lib>posix</forced_lib>\n<forced_lib>pwd</forced_lib>\n<forced_lib>pytest</forced_lib>\n<forced_lib>scipy</forced_lib>\n<forced_lib>select</forced_lib>\n<forced_lib>signal</forced_lib>\n<forced_lib>socket</forced_lib>\n<forced_lib>spwd</forced_lib>\n<forced_lib>strop</forced_lib>\n<forced_lib>sys</forced_lib>\n<forced_lib>syslog</forced_lib>\n<forced_lib>thread</forced_lib>\n<forced_lib>time</forced_lib>\n<forced_lib>unicodedata</forced_lib>\n<forced_lib>werkzeug</forced_lib>\n<forced_lib>wx</forced_lib>\n<forced_lib>wxPython</forced_lib>\n<forced_lib>xxsubtype</forced_lib>\n<forced_lib>zipimport</forced_lib>\n<forced_lib>zlib</forced_lib>\n</xml>&&&&&
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.noreturn=Error
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedefinitionProblem=Error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 /instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Ubuntu Mono|13.0|0|GTK|1|;
 @org.eclipse.jdt.ui=3.9.2.v20131106-1600
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidArguments=Error
@@ -132,6 +136,7 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.bold=true
 /instance/org.eclipse.jdt.ui/content_assist_number_of_computers=13
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CaseBreakProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},no_break_comment\=>"no break",last_case_param\=>false,empty_case_param\=>false}
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 @org.eclipse.cdt.dsf.ui=2.4.0.201402142303
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuspiciousSemicolonProblem=Warning
 /instance/org.eclipse.ui.editors/spacesForTabs=true
@@ -141,6 +146,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.editor.tab.width=
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errnoreturn=Warning
 @org.eclipse.cdt.ui=5.7.0.201402142303
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=always
 /instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug
 /instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
@@ -169,6 +175,7 @@ file_export_version=3.0
 @net.sourceforge.vrapper.eclipse=0.42.0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.enabled=true
 /instance/org.python.pydev/INTERPRETERS_CHECKED_ONCE=true
+@org.eclipse.jdt.launching=3.7.1.v20131218-1102
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.wait_for_build=never
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedVariableDeclarationProblem=Warning
 @org.eclipse.team.cvs.ui=3.3.600.v20130514-1224
@@ -202,9 +209,11 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.enabled=false
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MemberDeclarationNotFoundProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/org.eclipse.debug.ui/Console.highWaterMark=88000
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedStaticFunctionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},macro\=>true}
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentToItselfProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.TypeResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true}}
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MethodResolutionProblem=Error
 /instance/org.python.pydev/STRING_COLOR=66,0,144
 /instance/org.eclipse.cdt.ui/semanticHighlighting.macroSubstitution.color=0,121,12
